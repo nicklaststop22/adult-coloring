@@ -1,0 +1,6 @@
+{
+  "name": "ColoringForge: AI Coloring Pages",
+  "description": "AI coloring page generator with custom adult line art themes, batch creation, ad-free Pro upgrade, high-res PDF export, and offline gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

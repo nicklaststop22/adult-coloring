@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center flower / mandala line art centered within 66dp safe zone (21 to 87) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,26 C58,36 68,44 76,44 C66,50 62,60 54,78 C46,60 42,50 32,44 C40,44 50,36 54,26 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M54,34 C57,41 64,47 70,47 C62,51 59,58 54,70 C49,58 46,51 38,47 C44,47 51,41 54,34 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,50m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFE082"
+        android:strokeWidth="2"
+        android:pathData="M54,21 L54,17 M54,87 L54,91 M21,54 L17,54 M87,54 L91,54" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFE082"
+        android:strokeWidth="1.5"
+        android:pathData="M54,54m-28,0a28,28 0 1,0 56,0a28,28 0 1,0 -56,0" />
+</vector>
